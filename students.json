@@ -1,0 +1,50 @@
+[
+    {
+        "university": "KNU",
+        "id": 1,
+        "info": [
+            {
+                "first_name": "Ivan",
+                "last_name": "Shevchenko",
+                "student_id": 1,
+                "specialty": "Informatics"
+            }
+        ]
+    },
+    {
+        "university": "KNU",
+        "id": 1,
+        "info": [
+            {
+                "first_name": "Oleksii",
+                "last_name": "Rudenko",
+                "student_id": 2,
+                "specialty": "System Analysis"
+            }
+        ]
+    },
+    {
+        "university": "Harvard",
+        "id": 2,
+        "info": [
+            {
+                "first_name": "Brooke",
+                "last_name": "Davis",
+                "student_id": 3,
+                "specialty": "Economics"
+            }
+        ]
+    },
+    {
+        "university": "Oxford",
+        "id": 3,
+        "info": [
+            {
+                "first_name": "Sam",
+                "last_name": "Evans",
+                "student_id": 4,
+                "specialty": "Literature"
+            }
+        ]
+    }
+]
